@@ -1,4 +1,4 @@
-package com.rode.cloud.microservicesimpleconsumermovie;
+package com.rode.cloud;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
